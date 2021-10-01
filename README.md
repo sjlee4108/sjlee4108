@@ -23,8 +23,6 @@
 
 ## Web Projects:
 
-<br/>
-
 ### 졸업 프로젝트: 이벤트 기반의 웹 플랫폼 만들기
 Positive Tracks(PT)은 마라톤, 축구 등의 스포츠 이벤트를 통해 청소년들이 사회적 변화를 이끌수 있도록 도와주는 단체입니다. 전화 및 이메일로 소통하는 기존의 시스템을 대체하고자 이벤트 기획 및 참여를 쉽게 할 수 있는 웹 플랫폼을 개발했습니다.
 
@@ -78,9 +76,9 @@ React를 사용해서 웹 포트폴리오를 개발. Dark mode, AOS animation �
 ## Other Projects:
 
 ### 로봇 프로그래밍 조별 프로젝트
-* [code]('https://github.com/sjlee4108/robot-deliverer')
+*  [Code](https://github.com/sjlee4108/robot-deliverer)
 
 ### 안드로이드 프로그래밍 조별 프로젝트
-* [code]('https://github.com/sjlee4108/FridgeCompanion')
+*  [Code](https://github.com/sjlee4108/FridgeCompanion)
 
 
