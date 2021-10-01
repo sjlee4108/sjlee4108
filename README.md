@@ -39,7 +39,8 @@ Positive Tracks(PT)은 마라톤, 축구 등의 스포츠 이벤트를 통해 �
 ### 웹 포트폴리오 프로젝트
 React를 사용해서 웹 포트폴리오를 개발. Dark mode, AOS animation 등 안해본 새로운 기능 구현 시도. Lighthouse를 사용해서 코드 개선 시도 (robots.txt 추가하기 등 ...)
 
-[포트폴리오 페이지](https://leesj.me)
+* [포트폴리오 페이지](https://leesj.me)
+* [Code](https://github.com/sjlee4108/sj-portfolio)
 
 
 <br/>
