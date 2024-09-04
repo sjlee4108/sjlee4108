@@ -36,7 +36,7 @@ Developed a page with the concept of a school SNS using Firebase and React.
 ### Web Portfolio Project
 Developed a web portfolio using React. Attempted to implement new features such as dark mode and customize open source UI components.
 
-=
+
 * [Code](https://github.com/sjlee4108/sj-portfolio)
 
 
