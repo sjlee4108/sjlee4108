@@ -5,8 +5,9 @@
 ### 👋 &nbsp; Hello!
 
 
-> I am Seungjae Lee, aspiring to become a developer. I am confident in learning new technologies and frameworks, and I enjoy collaborating with a variety of people. I aim to become a developer who analyzes and understands users' needs and implements optimal platforms that meet those requirements.
+> I am Seungjae Lee, aspiring to become a developer. I am confident in learning new technologies and frameworks, and I enjoy collaborating with a variety of people. I aim to become a developer who analyzes and understands users' needs and implements optimal platforms that meet those requirements. I am currently at Georgia Tech MSCS program, studying different kind of computing systems and building strong foundation in the computer science field.
 
+* Visit my notion portfolio to check out some of the works I have done! 💻 [Notion Portfolio](https://www.notion.so/seungjae-lee-resume/Seungjae-Lee-094f2c4038014cb0b8836c5254a6f4c4)
 
 <br/>
 
@@ -14,7 +15,7 @@
 
 * 📧 sjlee4108@gmail.com
 
-* 💻 [Notion Portfolio](https://www.notion.so/seungjae-lee-resume/Seungjae-Lee-094f2c4038014cb0b8836c5254a6f4c4)
+* 📧 slee3773@gatech.edu
 
 
 
